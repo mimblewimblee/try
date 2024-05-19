@@ -4,5 +4,5 @@ Matematica per il design
 2023-2024
 
 
--[Presentazione](https://veronicaridolfi.github.io/Onde/presentazione/)
+-[Presentazione](https://veronicaridolfi.github.io/try/presentazione/presentazione.html)
 -[Ricerca](https://veronicaridolfi.github.io/Onde/ricerca/)  
