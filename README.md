@@ -5,4 +5,4 @@ Matematica per il design
 
 
 -[Presentazione](https://veronicaridolfi.github.io/Onde/presentazione/presentazione.html)
--[Ricerca](https://veronicaridolfi.github.io/Onde/ricerca/ricerca.html)  
+-[Ricerca](https://mimblewimblee.github.io/try/ricerca/ricerca.html)  
